@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
 <h3 align="center">A passionate AI&ML and Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on [meetHub](https://github.com/ayushYadav1107/meetHub)
+- 🔭 I’m currently working on [aeroCode](https://github.com/ayushYadav1107/aerocode)
 
 - 🌱 I’m currently learning **Next.js, Flask, TensorFlow**
 
