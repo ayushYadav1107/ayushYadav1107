@@ -10,7 +10,7 @@
 - 📫 How to reach me **iamayushyadav1107@gmail.com**
 
 - 📄 Resume:-  
-  https://drive.google.com/file/d/1JZImrW9tdReGyLM0-552ySOwgw6__ds7/view?usp=sharing
+  https://drive.google.com/file/d/1xHjpQ5pN6qwIFg7k33XEi97iYTakVKRQ/view?usp=sharing
 
 - ⚡ Fun fact **There are over 700 different programming languages.**
 
