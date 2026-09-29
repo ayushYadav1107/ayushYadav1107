@@ -3,12 +3,10 @@
 </p>
 
 <p align="center">
-  <!-- Uncomment once the portfolio is deployed, and replace the URL:
-  <a href="https://ayushyadav.vercel.app"><img src="https://img.shields.io/badge/Portfolio-C8FF3E?style=for-the-badge&logo=vercel&logoColor=09090A" alt="Portfolio" /></a>
-  -->
+  <a href="https://ayush-yadav11.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-5B86FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/ayush-yadav-3a79b2293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:iamayushyadav1107@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://drive.google.com/file/d/1xHjpQ5pN6qwIFg7k33XEi97iYTakVKRQ/view?usp=sharing"><img src="https://img.shields.io/badge/Résumé-PDF-18181B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Résumé" /></a>
+  <a href="https://drive.google.com/file/d/1Gcb5mk1xJhma8kkhss65DhtCifI8XfsA/view?usp=drive_link"><img src="https://img.shields.io/badge/Résumé-PDF-18181B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Résumé" /></a>
   <a href="https://leetcode.com/u/Ayush1107/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
@@ -16,8 +14,9 @@
 
 I'm a **full-stack software engineer** and Computer Science (AI & ML) undergrad at **VIT Bhopal** (class of 2027, CGPA 8.67). I ship web apps end to end — typed React interfaces, secured REST APIs, relational schemas and containerized deploys — and I design **multi-agent LLM systems** on LangGraph and the Model Context Protocol.
 
-- 💼 **Now:** Software Engineer Intern at **MP Online Limited**, Bhopal — building [TaskForge](https://github.com/ayushYadav1107/TaskForge)
-- 🎯 **Looking for:** full-stack SDE roles
+- 🎯 **Looking for:** full-stack SDE roles (class of 2027)
+- 💼 **Recently:** Software Engineer Intern at **MP Online Limited**, Bhopal (Jul – Sep 2026) — built [TaskForge](https://github.com/ayushYadav1107/TaskForge)
+- 🌐 **Portfolio:** [ayush-yadav11.vercel.app](https://ayush-yadav11.vercel.app/)
 - 🏆 National Finalist, **HackWithInfy** · Semi-Finalist, **Flipkart GRiD 7.0** · **Amazon ML Summer School 2026**
 - ☁️ **AWS Certified Solutions Architect – Associate**
 
@@ -56,7 +55,7 @@ I'm a **full-stack software engineer** and Computer Science (AI & ML) undergrad 
     </td>
     <td valign="top">
       <h3><a href="https://github.com/ayushYadav1107/ResuMetrics">ResuMetrics</a> — AI resume &amp; ATS review</h3>
-      Scores a resume against a real job posting across 5 weighted categories with specific fixes. A dual inference path shares one schema, so it runs with <b>no API key and no server</b>; each analysis is a retryable state machine.
+      Scores a resume against a real job posting across 5 weighted categories with specific fixes. A dual inference path shares one schema, so it runs with <b>no API key and no server</b>; each analysis is a retryable state machine, verified by 29 tests.
       <br /><br />
       <code>React Router</code> <code>TypeScript</code> <code>Tailwind</code> <code>Puter</code> <code>Vitest</code>
       <br /><br />
@@ -68,8 +67,8 @@ I'm a **full-stack software engineer** and Computer Science (AI & ML) undergrad 
       <a href="https://github.com/ayushYadav1107/TaskForge"><img src="https://raw.githubusercontent.com/ayushYadav1107/TaskForge/main/docs/screenshots/overview.png" alt="TaskForge overview dashboard" /></a>
     </td>
     <td valign="top">
-      <h3><a href="https://github.com/ayushYadav1107/TaskForge">TaskForge</a> — role-based workforce platform <sub>(internship)</sub></h3>
-      34 REST endpoints across 7 permission roles, enforced by one central permission registry. Scrypt hashing, login lockout, CSRF tokens and CSP; the task list went from <b>N+1 queries to a single aggregate</b>. Tested and shipped through a two-stage Docker build on GitHub Actions.
+      <h3><a href="https://github.com/ayushYadav1107/TaskForge">TaskForge</a> — role-based workforce platform <sub>(internship · Jul – Sep 2026)</sub></h3>
+      34 REST endpoints across 7 permission roles, enforced by one central permission registry. Scrypt hashing, login lockout, CSRF tokens and CSP; the task list went from <b>N+1 queries to a single aggregate</b>. Shipped with <b>116 tests</b> and a two-stage Docker build on GitHub Actions.
       <br /><br />
       <code>React</code> <code>TypeScript</code> <code>Flask</code> <code>SQLAlchemy</code> <code>PostgreSQL</code> <code>Docker</code>
       <br /><br />
@@ -81,7 +80,7 @@ I'm a **full-stack software engineer** and Computer Science (AI & ML) undergrad 
 ## Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,react,nextjs,tailwind,vite,nodejs,express,fastapi,flask,prisma,postgres,mysql,mongodb,sqlite,docker,githubactions,aws,vercel,git,linux&perline=12" alt="TypeScript, JavaScript, Python, C++, React, Next.js, Tailwind, Vite, Node.js, Express, FastAPI, Flask, Prisma, PostgreSQL, MySQL, MongoDB, SQLite, Docker, GitHub Actions, AWS, Vercel, Git, Linux" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,react,nextjs,tailwind,vite,nodejs,express,fastapi,flask,prisma,postgres,mysql,mongodb,docker,githubactions,aws,vercel,git&perline=11" alt="TypeScript, JavaScript, Python, C++, React, Next.js, Tailwind, Vite, Node.js, Express, FastAPI, Flask, Prisma, PostgreSQL, MySQL, MongoDB, Docker, GitHub Actions, AWS, Vercel, Git" />
 </p>
 
 **Agentic AI:**
@@ -89,7 +88,6 @@ I'm a **full-stack software engineer** and Computer Science (AI & ML) undergrad 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
 <img src="https://img.shields.io/badge/Model_Context_Protocol-6E56CF?style=flat-square" alt="Model Context Protocol" />
 <img src="https://img.shields.io/badge/Multi--agent_systems-A58BFF?style=flat-square" alt="Multi-agent systems" />
-<img src="https://img.shields.io/badge/Structured_outputs-18181B?style=flat-square" alt="Structured outputs" />
 
 ## Recognition
 
@@ -111,5 +109,5 @@ I'm a **full-stack software engineer** and Computer Science (AI & ML) undergrad 
 ---
 
 <p align="center">
-  <b>Hiring for a full-stack or AI engineering role?</b> — <a href="mailto:iamayushyadav1107@gmail.com">iamayushyadav1107@gmail.com</a>
+  <b>Hiring for a full-stack or AI engineering role?</b> — <a href="mailto:iamayushyadav1107@gmail.com">iamayushyadav1107@gmail.com</a> · <a href="https://ayush-yadav11.vercel.app/">portfolio</a>
 </p>
